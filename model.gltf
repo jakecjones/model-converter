@@ -1,0 +1,113 @@
+{
+  "asset": { "version": "2.0", "generator": "VECTARY" },
+  "nodes": [
+    {
+      "translation": [0, 0, 0],
+      "scale": [0.0254, 0.0254, 0.0254],
+      "rotation": [-0.7071067811865475, 0, 0, 0.7071067811865476],
+      "name": "Box",
+      "mesh": 0
+    },
+    {
+      "translation": [
+        10.461763483801889,
+        12.349874281099567,
+        18.206554407288497
+      ],
+      "scale": [1, 1, 1],
+      "rotation": [
+        -0.27595170311813394,
+        0.2368697168603638,
+        0.07037035043709872,
+        0.9288656568955773
+      ],
+      "name": "Camera",
+      "camera": 0
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6120655998656237,
+          0.6120655998656237,
+          0.6120655998656237,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2
+      },
+      "name": "Box material",
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": { "POSITION": 1, "NORMAL": 2, "TEXCOORD_0": 3 },
+          "material": 0,
+          "indices": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 144,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 54,
+      "max": [50, 50, 100],
+      "min": [-50, -50, 0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 54,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 54,
+      "type": "VEC2"
+    }
+  ],
+  "bufferViews": [
+    { "buffer": 0, "byteOffset": 0, "byteLength": 576, "target": 34963 },
+    { "buffer": 0, "byteOffset": 576, "byteLength": 648, "target": 34962 },
+    { "buffer": 0, "byteOffset": 1224, "byteLength": 648, "target": 34962 },
+    { "buffer": 0, "byteOffset": 1872, "byteLength": 432, "target": 34962 }
+  ],
+  "cameras": [
+    {
+      "name": "Camera",
+      "type": "perspective",
+      "extras": { "targetDistance": 24.121618021098506 },
+      "perspective": {
+        "aspectRatio": 1.708636836628512,
+        "yfov": 0.6108652381980153,
+        "zfar": 1423.747859587702,
+        "znear": 0.11938464874715889
+      }
+    }
+  ],
+  "scene": 0,
+  "scenes": [{ "nodes": [0, 1], "name": "MODEL-TEST" }],
+  "extensionsUsed": ["KHR_texture_transform"],
+  "buffers": [{ "byteLength": 2304, "uri": "MODEL-TEST.bin" }]
+}
