@@ -13,22 +13,22 @@ for line in f:
     index2 = line[1]
     index3 = line[2]
 
-    newObject = newObject + line
+    # newObject = newObject + line
 
-    if index1 == "v" and index2 == " ":
-        vertices.log(line)
+    # if index1 == "v" and index2 == " ":
+    #     vertices.log(line)
 
-    if index1 == "v" and index2 == "n":
-        normals.log(line)
+    # if index1 == "v" and index2 == "n":
+    #     normals.log(line)
 
-    if index1 == "f" and index2 == " ":
-        faces.log(line)
+    # if index1 == "f" and index2 == " ":
+    #     faces.log(line)
 
-    if index1 == "v" and index2 == "t":
-        texture.log(line)
+    # if index1 == "v" and index2 == "t":
+    #     texture.log(line)
 
-        f = open("newObject.obj", "w");
-        f.write(newObject)
-        f.close()
-        
-binary.writeBinaryToString()
+    #     f = open("newObject.obj", "w");
+    #     f.write(newObject)
+    #     f.close()
+
+readGLTF.writeBinaryToString()

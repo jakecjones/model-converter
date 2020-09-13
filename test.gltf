@@ -1,0 +1,191 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "normalized": false,
+      "count": 144,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 54,
+      "type": "VEC3",
+      "max": [
+        50,
+        50,
+        100
+      ],
+      "min": [
+        -50,
+        -50,
+        -1.1102230246251565e-14
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 54,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 54,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "pygltflib@v1.13.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 576,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 576,
+      "byteLength": 648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1224,
+      "byteLength": 648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1872,
+      "byteLength": 432,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAAAAAAIAAAADAAAAAwAAAAIAAAAEAAAAAwAAAAQAAAAFAAAAAQAAAAYAAAAHAAAAAQAAAAcAAAACAAAAAgAAAAcAAAAIAAAAAgAAAAgAAAAEAAAACQAAAAoAAAALAAAACQAAAAsAAAAMAAAADAAAAAsAAAANAAAADAAAAA0AAAAOAAAADwAAABAAAAARAAAADwAAABEAAAASAAAAEgAAABEAAAATAAAAEgAAABMAAAAUAAAAFQAAABYAAAAXAAAAFQAAABcAAAAYAAAAGAAAABcAAAAZAAAAGAAAABkAAAAaAAAACgAAABsAAAAcAAAACgAAABwAAAALAAAACwAAABwAAAAdAAAACwAAAB0AAAANAAAAEAAAAB4AAAAfAAAAEAAAAB8AAAARAAAAEQAAAB8AAAAgAAAAEQAAACAAAAATAAAAFgAAACEAAAAiAAAAFgAAACIAAAAXAAAAFwAAACIAAAAjAAAAFwAAACMAAAAZAAAAJAAAACUAAAAmAAAAJAAAACYAAAAnAAAAJwAAACYAAAAoAAAAJwAAACgAAAApAAAAJQAAACoAAAArAAAAJQAAACsAAAAmAAAAJgAAACsAAAAsAAAAJgAAACwAAAAoAAAALQAAAC4AAAAvAAAALQAAAC8AAAAwAAAAMAAAAC8AAAAxAAAAMAAAADEAAAAyAAAALgAAADMAAAA0AAAALgAAADQAAAAvAAAALwAAADQAAAA1AAAALwAAADUAAAAxAAAAAABIQgAASEIAAEioAABIQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEIAAEioAABIwgAAAAAAAAAAAABIwgAASEIAAEioAABIQgAASMIAAEgoAAAAAAAASMIAAEgoAABIwgAASMIAAEgoAABIQgAASEIAAEioAABIQgAASEIAAEhCAABIQgAASCgAAEhCAABIQgAAAAAAAAAAAABIQgAASMIAAEhCAABIQgAASMIAAEgoAABIQgAASMIAAEgoAABIQgAASMIAAEhCAAAAAAAASMIAAEhCAAAAAAAASMIAAEgoAABIwgAASMIAAEhCAABIwgAASMIAAEgoAABIwgAASMIAAEgoAABIwgAASMIAAEhCAABIwgAASCgAAEhCAABIwgAAAAAAAAAAAABIwgAASEIAAEhCAABIwgAASEIAAEioAABIQgAASEIAAMhCAABIQgAAyCgAAMhCAABIQgAASMIAAMhCAABIQgAASMIAAMhCAAAAAAAASMIAAMhCAABIwgAASMIAAMhCAABIwgAASMIAAMhCAABIwgAAyCgAAMhCAABIwgAASEIAAMhCAABIQgAASMIAAMhCAABIQgAAyCgAAMhCAAAAAAAAyCgAAMhCAAAAAAAASMIAAMhCAABIwgAAyCgAAMhCAABIwgAASMIAAMhCAABIQgAASEIAAMhCAAAAAAAASEIAAMhCAABIwgAASEIAAMhCAABIQgAASEIAAMhCAABIQgAASEIAAEhCAAAAAAAASEIAAEhCAAAAAAAASEIAAMhCAABIwgAASEIAAEhCAABIwgAASEIAAMhCAABIQgAASEIAAEioAAAAAAAASEIAAEioAABIwgAASEIAAEioAAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AAAAAAAAgKUAAIC/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAAAAAAAAgL8AAIAlAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgCUAAIA/AAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAAAAAAAAgD8AAIClAACAPwAAgD8AAIA/AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAAAAAAAPwAAAAAAAIA/AACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAACAPwAAgD8AAIA/AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAAAAAAAPwAAAAAAAIA/AACAPwAAgD8AAIA/AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAAAAAAAPwAAAAAAAIA/AACAPwAAgD8AAIA/AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAAAAAAAPwAAAAAAAIA/AACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAACAPwAAgD8AAIA/AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAAAAAAAPwAAAAAAAIA/AACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/AAAAPwAAAAAAAIA/AAAAPwAAgD8AAAAAAAAAAAAAgD8AAAA/AACAPwAAgD8AAIA/",
+      "byteLength": 2304
+    }
+  ],
+  "cameras": [
+    {
+      "extras": {
+        "targetDistance": 9.094665739335884
+      },
+      "perspective": {
+        "aspectRatio": 1.3642533936651584,
+        "yfov": 0.6108652381980153,
+        "zfar": 852.6665647512385,
+        "znear": 0.060773673750785025
+      },
+      "type": "perspective",
+      "name": "Camera"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_texture_transform"
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6120655998656237,
+          0.6120655998656237,
+          0.6120655998656237,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "alphaCutoff": 0.5,
+      "doubleSided": false,
+      "name": "Box material"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.0254,
+        0.0254,
+        0.0254
+      ],
+      "name": "Box"
+    },
+    {
+      "rotation": [
+        -0.24172882512295824,
+        -0.2063380537556545,
+        -0.052686755066978175,
+        0.9466867953645044
+      ],
+      "translation": [
+        -3.321401094049315,
+        5.630215020506289,
+        7.2573937923781715
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "camera": 0,
+      "name": "Camera"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "model",
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}
